@@ -9,6 +9,7 @@ public class App {
 	
 	public String sample(){
 		System.out.println("Pure code");
+		System.out.println("Added new sysout to invoke auto build");
 		return "sample";
 	}
 
